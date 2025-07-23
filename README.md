@@ -1,5 +1,5 @@
-# Student-Dropout-Prediction-Analysis-using-Python-and-Power-BI
-To predict which students are likely to drop out based on behavioral, performance, and demographic data, and visualize insights using Power BI.
+# Student-Dropout-Prediction-Analysis
+To predict which students are likely to drop out based on behavioral, performance, and demographic data, and visualize insights using Power BI, and predict using Machine Learning.
 
 ### Problem Statement:
 An EdTech platform offering online courses faced a dropout rate of nearly 20% among enrolled students. Stakeholders wanted to understand why students were dropping out, identify at-risk learners early, and gain insightful visualizations to make data-driven decisions for improving retention.
